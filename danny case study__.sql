@@ -1,6 +1,6 @@
 create database danny_case;
 use danny_case;
-drop table daily_sales;
+-- drop table daily_sales;
 drop table sales_table;
 
 
